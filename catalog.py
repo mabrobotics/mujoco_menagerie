@@ -143,6 +143,7 @@ MODEL_MAP = {
   'robotstudio_so101/so101': ModelType.ARM,
   'tetheria_aero_hand_open/right_hand': ModelType.END_EFFECTOR,
   'trossen_wxai/wxai_follower': ModelType.ARM,
+  'mab_robotics_hb50/hb50': ModelType.QUADRUPED,
 }
 
 

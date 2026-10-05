@@ -33,6 +33,7 @@ Built by the Google DeepMind team with contributions from the open-source commun
 - [Jonathan Zamora](https://github.com/jonzamora)
 - [Jooyoung Lim](https://github.com/mmporong)
 - [Kallinteris Andreas](https://github.com/Kallinteris-Andreas)
+- [Krzysztof Kwapisz](https://github.com/Kwach00)
 - [Lev Kozlov](https://github.com/lvjonok)
 - [Lorenzo Amatucci](https://github.com/lorenzo96-cmd)
 - [Louis Le Lay](https://github.com/louislelay)
